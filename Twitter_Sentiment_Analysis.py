@@ -16,11 +16,10 @@ import pickle
 
 from tweepy import OAuthHandler 
 
-consumer_key  = "I6ucnoYiODqNu43CdmQ4EtOvM"
-consumer_secret = "5Jd8o0a5YTxqgBlmMA90lcWYXzvGz519BHuo8f3EnesiDkTfRz"
-
-access_token = "1048995689617936385-WtDi70wfcKSP2j79Iqu2vJImP8Sm9z"
-access_secret = "apE7SCCV3N4OMv9ztKlGuBzGrMLfYt7mTkq75zA9ttkpu"
+consumer_key  = "your key"
+consumer_secret = "your key"
+access_token = "your key"
+access_secret = "your key"
 
 
 # In[ ]:
